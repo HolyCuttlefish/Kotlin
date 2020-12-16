@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/emptyFragmentOne"
+        android:icon="@color/purple_200"
+        android:title="Первый"
+        />
+
+    <item
+        android:id="@+id/emptyFragmentTwo"
+        android:icon="@color/teal_200"
+        android:title="Второй"
+        />
+</menu>

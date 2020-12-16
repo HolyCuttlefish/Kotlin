@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNewsListV2</string>
+
+    <string-array name="country">
+        <item>us</item>
+        <item>ru</item>
+    </string-array>
+</resources>
